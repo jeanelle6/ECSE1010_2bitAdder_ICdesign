@@ -17,4 +17,4 @@ To use the project, use the switches to toggle the binary numbers and watch the 
 
 ## External hardware
 
-3 x LEDs
+3x LED
