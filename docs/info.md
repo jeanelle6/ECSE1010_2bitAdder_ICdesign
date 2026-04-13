@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+The circuit takes two 2-bit numbers inputed through single bit switches and outputs the sum and carry out values of the inputed numbers.
 
 ## How to test
 
-Explain how to use your project
+To use the project, use the switches to toggle the binary numbers and watch the LEDs to monitor the outputs. 
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+3 x LEDs
